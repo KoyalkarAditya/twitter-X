@@ -1,0 +1,6 @@
+[submodule "twitter-clone-server"]
+	path = twitter-clone-server
+	url = https://github.com/KoyalkarAditya/twitter-clone-server.git
+[submodule "twitter-clone-client"]
+	path = twitter-clone-client
+	url = https://github.com/KoyalkarAditya/twitter-clone-client.git
